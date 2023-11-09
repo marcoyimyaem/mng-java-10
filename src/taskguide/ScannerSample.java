@@ -23,7 +23,7 @@ public class ScannerSample {
         massInput.close();
         name.close();
         age.close();
-        MarcoaccelarationInput.close();
+        accelarationInput.close();
         
         
 

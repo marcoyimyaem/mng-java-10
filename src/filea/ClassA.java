@@ -3,7 +3,7 @@ import java.util.*;
 import java.sql.*;
 
 
-class ClassA {
+public class ClassA {
     public ClassA(){
         System.out.println("ClassA is created");
     }
